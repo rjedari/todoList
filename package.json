@@ -1,0 +1,20 @@
+{
+  "name": "todolist-pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "div": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "postcss-cli": "^9.0.2",
+    "tailwindcss": "^3.0.7"
+  },
+  "dependencies": {
+    "tailwind": "^4.0.0"
+  }
+}
